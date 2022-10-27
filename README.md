@@ -41,7 +41,7 @@
     </a>
     <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="canvasjs" width="40" height="40"/> 
     </a> 
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://mpng.subpng.com/20180320/jcw/kisspng-circle-brand-symbol-font-app-terminal-5ab0ebeebfe475.547184531521544174786.jpg" alt="bash" width="40" height="40"/> 
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://spng.subpng.com/20180630/geh/kisspng-computer-icons-command-line-interface-computer-ter-termination-5b371287921af7.3597570715303358795985.jpg" alt="bash" width="40" height="40"/> 
     </a> 
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
     </a> 
