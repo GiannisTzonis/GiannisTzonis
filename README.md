@@ -1,4 +1,5 @@
-![MasterHead](https://i.gifer.com/1Xzz.gif)
+[![MasterHead](https://i.gifer.com/1Xzz.gif)]
+<img align="center" alt="Coding" width="100%" src="https://i.gifer.com/1Xzz.gif">
 <h1 align="center">Welcome, my name is Giannis Tzonis</h1>
 <h3 align="center">A Software Enginner from Greece</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
