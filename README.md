@@ -1,15 +1,18 @@
 [![MasterHead](https://i.gifer.com/1Xzz.gif)]
-<h1 align="center">Hi 👋, I'm Giannis Tzonis</h1>
+<h1 align="center">Welcome, my name is Giannis Tzonis</h1>
 <h3 align="center">A Software Enginner from Greece</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giannistzonis&label=Profile%20views&color=0e75b6&style=flat" alt="giannistzonis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giannistzonis" alt="giannistzonis" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giannistzonis" alt="giannistzonis" /></a> </p> -->
 🔭 I’m currently working remotely as a freelancer.
+
 👯 I’m looking to collaborate on creative team projects.
+
 🌱 I’m currently exploring advanced methods on React.
-- 📫 Contact Mail: **tzonis.john@hotmail.com**
+
+- 📫 Contact Mail: tzonis.john@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
