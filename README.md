@@ -41,7 +41,7 @@
     </a>
     <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="canvasjs" width="40" height="40"/> 
     </a> 
-    <a href="https://img.favpng.com/8/25/13/bash-scalable-vector-graphics-logo-printf-format-string-bourne-shell-png-favpng-JsQTcBsn2AH61CTpm6gZShPJk.jpg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+    <a href="https://img.favpng.com/8/25/13/bash-scalable-vector-graphics-logo-printf-format-string-bourne-shell-png-favpng-JsQTcBsn2AH61CTpm6gZShPJk.jpg" target="_blank" rel="noreferrer"> <img src="image.png" alt="bash" width="40" height="40"/> 
     </a> 
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
     </a> 
