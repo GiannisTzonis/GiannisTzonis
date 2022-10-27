@@ -6,7 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giannistzonis&label=Profile%20views&color=0e75b6&style=flat" alt="giannistzonis" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giannistzonis" alt="giannistzonis" /></a> </p>
-
+🔭 I’m currently working remotely as a freelancer.
+👯 I’m looking to collaborate on creative team projects.
+🌱 I’m currently exploring advanced methods on React.
 - 📫 Contact Mail: **tzonis.john@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
