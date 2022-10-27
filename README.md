@@ -79,7 +79,7 @@
     </a>
     <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://share.natebeaty.com//aseprite-no-border/aseprite-no-border.png" alt="vuejs" width="40" height="40"/> 
     </a>
-    <a href="https://wireframe.cc/" target="_blank" rel="noreferrer"> <img src="https://img.favpng.com/25/3/22/lucidchart-diagram-mind-map-flowchart-png-favpng-Xq2cekpAWnU1aj7GTMVzRaktx.jpg" alt="vuejs" width="40" height="40"/> 
+    <a href="https://wireframe.cc/" target="_blank" rel="noreferrer"> <img src="https://www.pngfind.com/pngs/m/215-2158883_technology-icon-png-transparent-png.png" alt="vuejs" width="40" height="40"/> 
     </a>
     <a href="https://balsamiq.com/" target="_blank" rel="noreferrer"> <img src="https://yoolk.ninja/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" alt="vuejs" width="40" height="40"/> 
     </a>
