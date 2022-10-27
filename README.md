@@ -92,4 +92,4 @@
 <p>&nbsp;<img align="center"  height="150px" width="48%" font-size="15px" src="https://github-readme-stats.vercel.app/api?username=giannistzonis&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/jasperalken"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jasperalken" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/jasperalken"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="jasperalken" /></a></p><br><br>
