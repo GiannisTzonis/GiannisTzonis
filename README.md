@@ -79,6 +79,8 @@
     </a>
     <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://share.natebeaty.com//aseprite-no-border/aseprite-no-border.png" alt="vuejs" width="40" height="40"/> 
     </a>
+    <a href="https://wireframe.cc/" target="_blank" rel="noreferrer"> <img src="https://www.evernote.design/assets/images/wireframecc.jpg" alt="vuejs" width="40" height="40"/> 
+    </a>
 </p>
 
 
