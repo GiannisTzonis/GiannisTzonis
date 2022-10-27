@@ -11,8 +11,6 @@
 
 👯 I’m looking to collaborate on creative team projects.
 
-🌱 I’m currently exploring advanced methods on React.
-
 👨🏾‍🎓 BA in Economics.
 
 📫 Contact Mail: tzonis.john@hotmail.com
