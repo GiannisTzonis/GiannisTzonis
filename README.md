@@ -1,7 +1,4 @@
-<!-- [![MasterHead](https://i.gifer.com/1Xzz.gif)] -->
-<h1 align="center">
- <img src="https://i.gifer.com/1Xzz.gif" />
-</h1>
+![MasterHead](http://38.media.tumblr.com/37f3472ec8fde8e2553bc69057b5d8ce/tumblr_nk0j2goAXr1rd6gypo1_500.gif)
 
 <h1 align="center">Welcome, my name is Giannis Tzonis</h1>
 <h3 align="center">A Software Enginner from Greece</h3>
