@@ -7,9 +7,7 @@
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giannistzonis" alt="giannistzonis" /></a> </p> -->
-🔭 I’m currently working remotely as a freelancer.
 
-👯 I’m looking to collaborate on creative team projects.
 
 👨🏾‍🎓 BA in Economics.
 
