@@ -1,7 +1,7 @@
 <!-- [MasterHead(width="400"http://38.media.tumblr.com/37f3472ec8fde8e2553bc69057b5d8ce/tumblr_nk0j2goAXr1rd6gypo1_500.gif)] -->
 <img align="right" alt="Coding" width="100%" height="300" src="http://38.media.tumblr.com/37f3472ec8fde8e2553bc69057b5d8ce/tumblr_nk0j2goAXr1rd6gypo1_500.gif">
 <h1 align="center">Welcome, my name is Giannis Tzonis</h1>
-<h3 align="center">A Software Engineer from Greece</h3>
+<h3 align="center">This account was inactive as I was working under my company's email. Now returning with new projects and contributions!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
 
 
