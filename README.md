@@ -11,7 +11,7 @@
 
 👨🏾‍🎓 BA in Economics.
 
-📫 Contact Mail: tzonis.john@hotmail.com
+📫 Contact Mail: tzonis.john1@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
