@@ -42,7 +42,7 @@ I build small, useful products end to end: research, build, deploy, SEO and mone
 
 ## Experience
 
-| Role | Company | |
+| Role | Company | When |
 | --- | --- | --- |
 | **Product Engineer** | TPL S.A. | 2025 – now |
 | **Full Stack Engineer**: architected 2 cybersecurity platforms with real-time threat monitoring | AI2CYBER | 2025 |
