@@ -1,93 +1,70 @@
-<!-- [MasterHead(width="400"http://38.media.tumblr.com/37f3472ec8fde8e2553bc69057b5d8ce/tumblr_nk0j2goAXr1rd6gypo1_500.gif)] -->
-<img align="right" alt="Coding" width="100%" height="300" src="http://38.media.tumblr.com/37f3472ec8fde8e2553bc69057b5d8ce/tumblr_nk0j2goAXr1rd6gypo1_500.gif">
-<h1 align="center">Welcome, my name is Giannis Tzonis</h1>
-<h3 align="center">This account was inactive as I was working under my company's email. Now returning with new projects and contributions!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
+<h1 align="center">Giannis Tzonis</h1>
 
-
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giannistzonis" alt="giannistzonis" /></a> </p> -->
-
-
-👨🏾‍🎓 BA in Economics.
-
-📫 Contact Mail: tzonis.john1@gmail.com
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/giannis_tzonis_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giannis_tzonis_" height="30" width="40" /></a>
-<a href="https://instagram.com/tzonisjohn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tzonisjohn" height="30" width="40" /></a>
+<p align="center">
+  <b>Product Engineer</b> · commerce platforms · agentic commerce · technical SEO at scale
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giannistzonis&label=Profile%20views&color=0e75b6&style=flat" alt="giannistzonis" /> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<!-- <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-<!-- <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/htmlhtml.png"></code>
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/htmlhtml.png"></code> --> 
-<p align="left">
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>  
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="canvasjs" width="40" height="40"/> 
-    </a> 
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" alt="bash" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-    </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
-    <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canvasjs" width="40" height="40"/> 
-    </a> 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/925/447/png-clipart-express-js-node-js-javascript-mongodb-node-js-text-trademark.png" alt="express" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a>  
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextjs" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-    </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a>  
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-    </a> 
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-    </a>
-    <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://share.natebeaty.com//aseprite-no-border/aseprite-no-border.png" alt="vuejs" width="40" height="40"/> 
-    </a>
-    <a href="https://wireframe.cc/" target="_blank" rel="noreferrer"> <img src="https://img.favpng.com/18/23/8/innovation-competition-computer-icons-creativity-vector-graphics-png-favpng-7iFBkgtqUG4n1Cqw7FN0TPZfM.jpg" alt="vuejs" width="40" height="40"/> 
-    </a>
-    <a href="https://balsamiq.com/" target="_blank" rel="noreferrer"> <img src="https://yoolk.ninja/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" alt="vuejs" width="40" height="40"/> 
-    </a>
-    <a href="https://lesscss.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/392/883/png-transparent-computer-icons-less-web-development-others-text-logo-css-thumbnail.png" alt="vuejs" width="40" height="40"/> 
-    </a>
+<p align="center">
+  <a href="https://tzonisjohn.com"><img src="https://img.shields.io/badge/Portfolio-tzonisjohn.com-111827?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="mailto:tzonis.john1@gmail.com"><img src="https://img.shields.io/badge/Email-tzonis.john1%40gmail.com-0b3d91?style=for-the-badge" alt="Email" /></a>
+  <a href="https://x.com/giannis_tzonis_"><img src="https://img.shields.io/badge/X-@giannis__tzonis__-000000?style=for-the-badge&logo=x" alt="X" /></a>
 </p>
 
+<p align="center">
+  📍 Preveza, Greece · 🌍 Remote-ready · 7+ years shipping production software
+</p>
 
+---
 
-<p><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannistzonis&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="giannistzonis" /></p>
+I'm a product engineer who owns the whole path from idea to production: architecture, shared platforms, releases and the numbers that come after. Right now I run the storefront platform behind **10+ multi-language e-commerce stores** and lead R&D on **AI agents that can shop and check out**.
 
-<p>&nbsp;<img align="center"  height="150px" width="48%" src="https://github-readme-stats.vercel.app/api?username=giannistzonis&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /></p>
+## What I'm working on
 
-<!-- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/jasperalken"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jasperalken" /></a></p><br><br> -->
+- 🛒 **Commerce platform owner at TPL S.A.**: one shared React 19 + React Router 7 SSR library powers every store, so a feature is built once and ships everywhere. I built 4 brand storefronts from scratch on it.
+- 🤖 **Agentic commerce R&D**: AI-agent checkout (ACP), delegated payments, order webhooks and **MCP** integrations on top of the commerce stack.
+- 🔍 **Technical SEO at scale**: SSR, edge prerendering for bots, hreflang across 6 languages per store, JSON-LD and localized sitemaps.
+- 🏗️ **Back-office rebuild, led to production**: RBAC, SSO and warehouse fulfilment workflows.
+
+## Products I build and run on my own
+
+I build small, useful products end to end: research, build, deploy, SEO and monetization. All are self-hosted on my own Docker + Traefik + Cloudflare setup, server-rendered, multi-language, and every number on them cites its source.
+
+| Product | What it does |
+| --- | --- |
+| [**AllJobsCalc**](https://alljobscalc.com) | 16 reference calculators for electricians, HVAC, plumbing and more, with the code section behind every result · 7 languages |
+| [**QuickPaperwork**](https://quickpaperwork.com) | Invoice, quote, receipt, resume and timesheet generators; the PDF is built entirely in the browser |
+| [**PDF to Word**](https://pdf-to-word.online) | Free PDF → DOCX converter, including scanned PDFs (OCR) and batch conversion |
+| [**QuotaCost**](https://quotacost.com) | LLM API cost calculator and model price comparison, every price dated and sourced |
+| [**PumpOrPlug**](https://pumporplug.com) | Fuel vs EV trip cost using the real route and its elevation profile |
+| [**BakeryMath**](https://bakerymath.com) | Baker's percentage, recipe costing, batch scaling and menu pricing |
+| [**BlokakiNow**](https://blokakinow.gr) | Greek freelancer tax and e-EFKA calculators, kept current with each tax law |
+| [**Psi Editions**](https://psi-editions.online) | My independent publishing house, with nonfiction and puzzle books |
+
+## Experience
+
+| Role | Company | |
+| --- | --- | --- |
+| **Product Engineer** | TPL S.A. | 2025 – now |
+| **Full Stack Engineer**: architected 2 cybersecurity platforms with real-time threat monitoring | AI2CYBER | 2025 |
+| **Front-End Engineer**: led the core localization platform redesign, built the design system, shipped Viber / HubSpot / Zendesk / Contentful integrations | Transifex | 2023 – 2024 |
+| **Software Engineer**: e-commerce, real estate and portfolio sites, owned end to end | Freelance | 2019 – 2023 |
+
+5 hackathons, 2 of them led. BA in Economics.
+
+## Stack
+
+**Frontend**: React 19, React Router 7 (SSR), TypeScript, Tailwind CSS, React Native<br>
+**Backend**: Node.js, MedusaJS v2, Elasticsearch, Redis, GraphQL, REST, Django, Supabase<br>
+**Platform**: Turborepo + pnpm monorepos, Vite, Docker, nginx, Traefik, GitLab CI/CD, Ansible<br>
+**Edge & SEO**: Cloudflare (CDN, WAF, Workers), prerendering, hreflang, JSON-LD<br>
+**Payments**: Stripe, Braintree, PayPal<br>
+**Observability**: Sentry, GA4 ecommerce, server-side GTM<br>
+**AI**: agentic commerce (ACP), MCP, AI-native development workflows
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,vite,redis,elasticsearch,docker,nginx,cloudflare,gitlab,linux,postgres,django" alt="Tech stack" />
+</p>
+
+---
+
+<p align="center"><i>Open to product engineering roles and collaborations on commerce, AI agents and platform work. The best way to reach me is <a href="mailto:tzonis.john1@gmail.com">email</a>.</i></p>
