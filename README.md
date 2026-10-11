@@ -1,7 +1,7 @@
 <h1 align="center">Giannis Tzonis</h1>
 
 <p align="center">
-  <b>Product Engineer</b> · commerce platforms · agentic commerce · technical SEO at scale
+  <b>Product Engineer</b> · agentic commerce · e-commerce · security · web platforms
 </p>
 
 <p align="center">
@@ -11,60 +11,46 @@
 </p>
 
 <p align="center">
-  📍 Preveza, Greece · 🌍 Remote-ready · 7+ years shipping production software
+  📍 Greece · 🌍 Remote-ready · 7+ years shipping production software
 </p>
 
 ---
 
-I'm a product engineer who owns the whole path from idea to production: architecture, shared platforms, releases and the numbers that come after. Right now I run the storefront platform behind **10+ multi-language e-commerce stores** and lead R&D on **AI agents that can shop and check out**.
+I'm a product engineer who owns the whole path from idea to production: product thinking, architecture, shared platforms, releases, and the results that come after. I work where engineering meets the business, building software that is fast, secure, found by search engines and easy to use.
 
-## What I'm working on
+## What I focus on
 
-- 🛒 **Commerce platform owner at TPL S.A.**: one shared React 19 + React Router 7 SSR library powers every store, so a feature is built once and ships everywhere. I built 4 brand storefronts from scratch on it.
-- 🤖 **Agentic commerce R&D**: AI-agent checkout (ACP), delegated payments, order webhooks and **MCP** integrations on top of the commerce stack.
-- 🔍 **Technical SEO at scale**: SSR, edge prerendering for bots, hreflang across 6 languages per store, JSON-LD and localized sitemaps.
-- 🏗️ **Back-office rebuild, led to production**: RBAC, SSO and warehouse fulfilment workflows.
+- 🤖 **Agentic commerce**: AI agents that can browse, shop and check out. Agent checkout protocols (ACP), delegated payments and MCP integrations on top of real commerce stacks.
+- 🛒 **E-commerce**: headless, multi-store, multi-language platforms, from storefront to cart, payments, search and fulfilment.
+- 🔐 **Security**: security-first products and interfaces for sensitive data, access control (RBAC, SSO) and real-time monitoring.
+- 🌐 **Web platforms**: server-rendered React at the edge, shared libraries and monorepos, performance and technical SEO at scale.
+- 🎯 **Product design**: turning business goals into clear product decisions, from discovery and UX to design systems and shipping.
 
-## Products I build and run on my own
+## How I work
 
-I build small, useful products end to end: research, build, deploy, SEO and monetization. All are self-hosted on my own Docker + Traefik + Cloudflare setup, server-rendered, multi-language, and every number on them cites its source.
-
-| Product | What it does |
-| --- | --- |
-| [**AllJobsCalc**](https://alljobscalc.com) | 16 reference calculators for electricians, HVAC, plumbing and more, with the code section behind every result · 7 languages |
-| [**QuickPaperwork**](https://quickpaperwork.com) | Invoice, quote, receipt, resume and timesheet generators; the PDF is built entirely in the browser |
-| [**PDF to Word**](https://pdf-to-word.online) | Free PDF → DOCX converter, including scanned PDFs (OCR) and batch conversion |
-| [**QuotaCost**](https://quotacost.com) | LLM API cost calculator and model price comparison, every price dated and sourced |
-| [**PumpOrPlug**](https://pumporplug.com) | Fuel vs EV trip cost using the real route and its elevation profile |
-| [**BakeryMath**](https://bakerymath.com) | Baker's percentage, recipe costing, batch scaling and menu pricing |
-| [**BlokakiNow**](https://blokakinow.gr) | Greek freelancer tax and e-EFKA calculators, kept current with each tax law |
-| [**Psi Editions**](https://psi-editions.online) | My independent publishing house, with nonfiction and puzzle books |
-
-## Experience
-
-| Role | Company | When |
-| --- | --- | --- |
-| **Product Engineer** | TPL S.A. | 2025 – now |
-| **Full Stack Engineer**: architected 2 cybersecurity platforms with real-time threat monitoring | AI2CYBER | 2025 |
-| **Front-End Engineer**: led the core localization platform redesign, built the design system, shipped Viber / HubSpot / Zendesk / Contentful integrations | Transifex | 2023 – 2024 |
-| **Software Engineer**: e-commerce, real estate and portfolio sites, owned end to end | Freelance | 2019 – 2023 |
-
-5 hackathons, 2 of them led. BA in Economics.
+- **Own the outcome**: I care about conversion, speed, rankings and reliability, not just closed tickets.
+- **Build once, ship everywhere**: shared platforms over one-off code.
+- **AI-native**: agents and LLMs are part of how I build, not only what I build.
+- **Measure and iterate**: analytics, error monitoring and fast release cycles.
 
 ## Stack
 
-**Frontend**: React 19, React Router 7 (SSR), TypeScript, Tailwind CSS, React Native<br>
-**Backend**: Node.js, MedusaJS v2, Elasticsearch, Redis, GraphQL, REST, Django, Supabase<br>
-**Platform**: Turborepo + pnpm monorepos, Vite, Docker, nginx, Traefik, GitLab CI/CD, Ansible<br>
-**Edge & SEO**: Cloudflare (CDN, WAF, Workers), prerendering, hreflang, JSON-LD<br>
+**Frontend**: React, React Router (SSR), TypeScript, Tailwind CSS, React Native<br>
+**Backend**: Node.js, MedusaJS, Elasticsearch, Redis, GraphQL, REST, Django, Supabase<br>
+**Platform**: Turborepo + pnpm monorepos, Vite, Docker, nginx, CI/CD, Ansible<br>
+**Edge & SEO**: Cloudflare (CDN, WAF, Workers), prerendering, hreflang, structured data<br>
 **Payments**: Stripe, Braintree, PayPal<br>
-**Observability**: Sentry, GA4 ecommerce, server-side GTM<br>
-**AI**: agentic commerce (ACP), MCP, AI-native development workflows
+**Observability**: Sentry, GA4 ecommerce, server-side tagging<br>
+**AI**: agentic commerce (ACP), MCP, AI agents & LLM workflows
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,vite,redis,elasticsearch,docker,nginx,cloudflare,gitlab,linux,postgres,django" alt="Tech stack" />
 </p>
 
+## Background
+
+Product Engineer at **TPL S.A.** · Full Stack Engineer at **AI2CYBER** · Front-End Engineer at **Transifex** · Freelance Software Engineer. 5 hackathons, 2 of them led. BA in Economics.
+
 ---
 
-<p align="center"><i>Open to product engineering roles and collaborations on commerce, AI agents and platform work. The best way to reach me is <a href="mailto:tzonis.john1@gmail.com">email</a>.</i></p>
+<p align="center"><i>Open to product engineering roles and collaborations on commerce, AI agents, security and web platforms. The best way to reach me is <a href="mailto:tzonis.john1@gmail.com">email</a>.</i></p>
